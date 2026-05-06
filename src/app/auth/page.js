@@ -2,6 +2,8 @@
 
 import AuthCard from "../components/AuthCard";
 
+export const dynamic = "force-dynamic";
+
 export default function AuthPage() {
   return (
     <div className="min-h-screen flex bg-black text-white">
